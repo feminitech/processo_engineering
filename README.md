@@ -1,6 +1,7 @@
 # Como rodar o projeto
 
 Pré-requisito: ter o [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html), o [Eclipse](https://www.eclipse.org/downloads/) instalados, e o [ChromeDriver](https://chromedriver.chromium.org/downloads) baixado e extraído.
+
 ps.: *o ChromeDriver deve ser baixado na mesma versão do Chrome ou a versão mais próxima.*
 
  1. Aqui no github clique em **Code**
