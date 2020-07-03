@@ -1,6 +1,6 @@
 # Como rodar o projeto
 
-Pré-requisito: ter o [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) instalado, o [Eclipse](https://www.eclipse.org/downloads/)  e o [ChromeDriver](https://chromedriver.chromium.org/downloads) baixado e extraído.
+Pré-requisito: ter o [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html), o [Eclipse](https://www.eclipse.org/downloads/) instalados, e o [ChromeDriver](https://chromedriver.chromium.org/downloads) baixado e extraído.
 ps.: *o ChromeDriver deve ser baixado na mesma versão do Chrome ou a versão mais próxima.*
 
  1. Aqui no github clique em **Code**
@@ -19,7 +19,7 @@ ps.: *o ChromeDriver deve ser baixado na mesma versão do Chrome ou a versão ma
  14. então clique no pacote **engineering**
  15. E clique na classe **processoSeletivo.java**
  16. altere o **System.setProperty("webdriver.chrome.driver", "/home/nayara/selenium_drivers/chromedriver");** para o caminho onde o ChromeDriver foi extraído
- 17. Agora em **run**
+ 17. Agora clique em **run**
  18. Pronto o teste vai rodar :)
 
 Utilizei o padrão de projeto **Page Objects** a fim de facilitar a escrita, leitura e  manutenções dos testes.
